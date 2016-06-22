@@ -27,6 +27,7 @@ Items in these lists are in need of testing with the new hookmask system
   1. Guilty Gear X2 #Reload
   1. Incredible Hulk
   1. James Bond 007 Blood Stone
+  1. Jet Set Radio
   1. Kane & Lynch 2 : Dog Days
   1. Kung Fu Panda
   1. Last Remnant, The
